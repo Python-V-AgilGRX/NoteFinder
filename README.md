@@ -1,7 +1,7 @@
-# Plantilla del curso de desarrollo ágil 
+# Proyecto del grupo de Python V del curso de Desarrollo Ágil
 
-Plantilla para el [curso de desarrollo ágil](https://jj.github.io/curso-tdd)
-
-Contiene el mínimo para un proyecto, incluyendo una GitHub action que
-comprueba la presencia de ciertos ficheros, un directorio para los
-tests, y otro para la documentación.
+### Participantes
+- Silver 
+- Curro
+- Andrés
+- Patri
